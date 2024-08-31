@@ -1,0 +1,112 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Sevillana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ramabhadra&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=NTR&display=swap');
+@font-face{
+    font-family: chathura;
+    src:url(./fonts/Chathura\ Bold\ 2/);
+
+}
+
+
+
+@font-face{
+     font-family: ntr;
+     src: url(./fonts/ntr-regular);
+
+}
+
+
+
+
+
+
+
+
+
+
+#f1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: blue;
+    font-weight: 200;
+}
+
+
+#f2{
+    font-family:"Sevillana", cursive; 
+    font-size: smaller;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+
+
+#f3{
+    font-family:"Noto Sans JP", sans-serif;
+    font-size: x-large; 
+    color: brown;
+    font-weight: normal;
+}
+
+
+
+#f4{
+    font-family:  "Roboto", sans-serif;
+    font-size: xx-small;
+    color: aquamarine;
+    font-weight: 300;
+
+}
+
+
+
+
+
+#f5{
+    font-family:"Catamaran", sans-serif; 
+    font-size: larger;
+    color: burlywood;
+    font-weight: 300;
+    font-style: italic;
+}
+
+
+
+#f6{
+    font-family:"Ramabhadra", sans-serif;
+    font-size: medium;
+    color: aqua;
+    font-weight: 600;
+    font-style: normal;
+}
+
+#f7{
+    font-family: "NTR", sans-serif;
+    font-size: medium;
+    color: chartreuse;
+    font-weight: 400;
+    font-style: normal; 
+}
+
+
+#f8{
+    font-family: chathura;
+    font-size: 300;
+    color: darkgreen;
+    font-weight: 200;
+    font-style: oblique;
+}
+
+
+#f9{
+    font-family:ntr ;
+    font-size: larger;
+    color: darkmagenta;
+    font-weight: 200;
+    font-style: oblique;
+
+}
